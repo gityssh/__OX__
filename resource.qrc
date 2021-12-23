@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/actioncommet.png</file>
+        <file>Images/circle.png</file>
+        <file>Images/countinue.png</file>
+        <file>Images/cross.png</file>
+        <file>Images/doremon.png</file>
+        <file>Images/hatodi.png</file>
+        <file>Images/jerry.png</file>
+        <file>Images/kitrekchu.png</file>
+        <file>Images/korosuke.png</file>
+        <file>Images/newgame.png</file>
+        <file>Images/nobita.png</file>
+        <file>Images/perman.png</file>
+        <file>Images/shinjo.png</file>
+        <file>Images/shinshan.png</file>
+        <file>Images/shinshan1.png</file>
+        <file>Images/shiro.png</file>
+        <file>Images/shishimaru.png</file>
+        <file>Images/sizuka.png</file>
+        <file>Images/thumbnail.png</file>
+        <file>Images/tom.png</file>
+        <file>Images/turn.png</file>
+        <file>Images/X.png</file>
+        <file>Images/XY.png</file>
+        <file>Images/Y.png</file>
+        <file>Images/YX.png</file>
+        <file>Images/howtoplay_blocks_info.png</file>
+        <file>Images/howtoplay_changeicon_info.png</file>
+        <file>Images/howtoplay_newgame_countiue_info.png</file>
+        <file>Images/howtoplay_turnbar_info.png</file>
+        <file>Images/Wins.png</file>
+    </qresource>
+    <qresource prefix="/Music">
+        <file>Music/player_1.wav</file>
+        <file>Music/player_2.wav</file>
+        <file>Music/restart.wav</file>
+        <file>Music/tye.wav</file>
+        <file>Music/win.wav</file>
+    </qresource>
+</RCC>
