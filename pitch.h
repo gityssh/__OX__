@@ -20,6 +20,8 @@ class Pitch : public QMainWindow, public Victory
     public:
         Pitch(QWidget *parent = nullptr);
         QLabel* img;
+
+        // Players can able to change icons. These are the array of icon files.
         char iconLink[17][100] = {
                                     {":Images/Images/cross.png"},
                                     {":Images/Images/circle.png"},
