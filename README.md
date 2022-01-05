@@ -1,7 +1,7 @@
 # __OX__
 OX game made in Qt and C++.
 
-UI - 
+## UI ->
 
 ![ox2](https://user-images.githubusercontent.com/49648562/148117676-33d18f03-5267-47d5-bb04-e8012c2b1999.png)
 
