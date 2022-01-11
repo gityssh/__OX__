@@ -1,5 +1,5 @@
 # __OX__
-OX game made in Qt and C++.
+OX game made in Qt 5.15 and C++.
 
 ## UI ->
 
